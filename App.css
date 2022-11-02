@@ -1,0 +1,109 @@
+button:hover {
+    color: #21d187;
+    background-color: #fff;
+  }
+  
+  .card{
+    background-image: url(../src/img/bbg.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    padding: 10px;
+  }
+  .card:hover {
+    background-color: rgba(0, 0, 0, 0.75);
+    transform: scale(1.075);
+    transition: 0.3s ease-in;
+  }
+  
+  .cardone{
+    background-image: url(../src/img/frost.JPG);
+    background-size: cover;
+    background-repeat: no-repeat;
+  }
+  .cardone:hover {
+    background-color: rgba(0, 0, 0, 0.75);
+    transform: scale(1.075);
+    transition: 0.3s ease-in;
+  }
+  .cardtwo{
+    background-image: url(../src/img/amala.JPG);
+    background-size: cover;
+    background-repeat: no-repeat;
+  }
+  .cardtwo:hover {
+    background-color: rgba(0, 0, 0, 0.75);
+    transform: scale(1.075);
+    transition: 0.3s ease-in;
+  }
+  .cardthree {
+    background-image: url(../src/img/jollof.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+  }
+  .cardthree:hover {
+    background-color: rgba(0, 0, 0, 0.75);
+    transform: scale(1.075);
+    transition: 0.3s ease-in;
+  }
+  .cardfour {
+    background-image: url(../src/img/chicken.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+  }
+  .cardfour:hover {
+    background-color: rgba(0, 0, 0, 0.75);
+    transform: scale(1.075);
+    transition: 0.3s ease-in;
+  }
+  .cardfive {
+    background-image: url(../src/img/Iyan.JPG);
+    background-size: cover;
+    background-repeat: no-repeat;
+  }
+  .cardfive:hover {
+    background-color: rgba(0, 0, 0, 0.75);
+    transform: scale(1.075);
+    transition: 0.3s ease-in;
+  }
+  .cardsix {
+    background-image: url(../src/img/sharwama.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+  }
+  .cardsix:hover {
+    background-color: rgba(0, 0, 0, 0.75);
+    transform: scale(1.075);
+    transition: 0.3s ease-in;
+  }
+  .cardseven {
+    background-image: url(../src/img/sharwama.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+  }
+  .cardseven:hover {
+    background-color: rgba(0, 0, 0, 0.75);
+    transform: scale(1.075);
+    transition: 0.3s ease-in;
+  }
+  
+  .work {
+    background-image: url(../src/img/painting.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+  }
+  .work:hover {
+    background-color: rgba(0, 0, 0, 0.75);
+    transform: scale(1.075);
+    transition: 0.3s ease-in;
+  }
+  
+  .workone {
+    background-image: url(../src/img/house.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+  }
+  .workone:hover {
+    background-color: rgba(0, 0, 0, 0.75);
+    transform: scale(1.075);
+    transition: 0.3s ease-in;
+  }
